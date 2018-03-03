@@ -1,5 +1,5 @@
 # emacs_shortcuts
-emacs快捷键
+个人收集整理的emacs快捷键
 
 - File
 
